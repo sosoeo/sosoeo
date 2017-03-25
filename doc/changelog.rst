@@ -6,3 +6,7 @@ changelog for sosoeo
 1. 初始：基于github.com/html5-boilerplate/releases/v5.3.0.zip文件并修改了
    本doc目录。(使用emacs编辑)
 2. my index.html
+
+2017.03.24
+----------------------------------------------------------------------
+1. 数据库设计的规范化设计之范式概念笔记。
